@@ -4,17 +4,8 @@
       "id": 1,
       "title": "hello"
     }
-    {
-      "id": 2,
-      "title": "hai"
-    }
-    {
-      "id": 3,
-      "title": "boss"
-    }
-    {
-      "id": 4,
-      "title": "baby"
-    }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
