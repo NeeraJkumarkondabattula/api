@@ -1,22 +1,13 @@
 {
-  "products":[
+  "posts": [
     {
-      "id":1,
-      "name":"samsung A31",
-      "company" : "samsung",
-      "price": 18000,
-    },
-    {
-      "id":2,
-      "name":"samsung A30",
-      "company": "samsung",
-      "price": 14000,
-    },
-    {
-      "id":3,
-      "name":"iphone 15pro",
-      "company": "iphone",
-      "price": 78000,
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
+
+
